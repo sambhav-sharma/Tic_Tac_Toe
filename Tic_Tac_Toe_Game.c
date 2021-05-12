@@ -282,6 +282,8 @@ int main()
                 }
                 else
                 {
+                    printf("-------Thanks For Playing-------\n");
+                    getch();
                     break;
                 }
             }
